@@ -5,7 +5,7 @@ const FlexDimensionsBasics = () => {
     return (
         <View style={{flex: 1}}>
             <View style={{flex: 1, backgroundColor: 'powderblue'}} />
-            <Text style={StyleSheet.heading}>Tela de Login</Text>
+            <Text style={StyleSheet.heading}>Tela de Logins</Text>
         </View>
     );
 };
